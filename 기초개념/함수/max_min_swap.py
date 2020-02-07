@@ -25,3 +25,9 @@ print("minTuple:", minTuple)
 print("minSet:", minSet)
 print("minDictionary:", minDictionary)
 
+#swap
+x = 10
+y = 20
+
+x,y = y,x
+print(x, y)
