@@ -21,4 +21,4 @@
 [교보문구](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480D190420390&orderClick=LAG&Kc=#tab_content_03)  
 [리디북스](https://ridibooks.com/v2/Detail?id=2773000022&_s=search&_q=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C)  
 
-![artificial.jpg](.\artificial.jpg)
+![artificial](./image/artificial.jpg)
