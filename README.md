@@ -10,7 +10,7 @@
 3. Python 모듈(Pandas & Numpy)
 4. Python Crawling
 5. 클라우드를 이용한 Crawling 서비스 제작
-6. 자동화 응용1(SMS 발송)
+6. 자동화 응용1(email 발송)
 <br>
 
 출판
