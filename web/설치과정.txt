@@ -1,0 +1,11 @@
+mkdir mysite
+cd mysite
+pip3 install virtualenv
+virtualenv myvenv
+source myvenv/bin/activate
+pip3 install django==2.1
+django-admin startproject tutorialdjango .
+python manage.py migrate
+
+½Ã¸®Çà
+python manage.py migrate
