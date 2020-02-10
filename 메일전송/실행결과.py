@@ -20,7 +20,7 @@ https://myaccount.google.com/security 접속하여 2단계 인증을 진행한 �
 앱 선택 - 메일, 기기 선택 - Windows 컴퓨터 
 '''
 
-s.login('dnjs2113@gmail.com', 'bqkq pouw iwbr dzix')
+s.login('dnjs2113@gmail.com', '비밀번호')
 
 msg = MIMEText('내용 : 본문내용 테스트입니다.')
 msg['Subject'] = '제목 : 메일 보내기 테스트입니다.'
